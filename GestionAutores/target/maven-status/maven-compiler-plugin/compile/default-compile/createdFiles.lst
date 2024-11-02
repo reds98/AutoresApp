@@ -1,0 +1,10 @@
+com\mycompany\gestionautores\vista\FormAutores.class
+com\mycompany\gestionautores\main\Principal.class
+com\mycompany\gestionautores\vista\DialogoAutor.class
+com\mycompany\gestionautores\util\ConexionUtil.class
+com\mycompany\gestionautores\dao\AutorDAO.class
+com\mycompany\gestionautores\GestionAutores.class
+com\mycompany\gestionautores\dao\AutorDAOImpl.class
+com\mycompany\gestionautores\modelo\Autor.class
+com\mycompany\gestionautores\test\TestAutor.class
+com\mycompany\gestionautores\vista\FormAutores$1.class
